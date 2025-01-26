@@ -2,6 +2,7 @@
 
 # commit test 1
 # commit test 2
+# commit test 3 from terminal, this edited in VIM 
 
 *Capture and share every wonderful moment.*
 
